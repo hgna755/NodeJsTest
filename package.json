@@ -1,0 +1,24 @@
+{
+  "name": "NodeJsTest",
+  "version": "1.0.0",
+  "description": "NodeJsTest",
+  "main": "demo_uppercase.js",
+  "dependencies": {
+    "upper-case": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgna755/NodeJsTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hgna755/NodeJsTest/issues"
+  },
+  "homepage": "https://github.com/hgna755/NodeJsTest#readme"
+}
